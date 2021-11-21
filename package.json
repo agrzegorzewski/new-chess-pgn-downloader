@@ -1,5 +1,25 @@
 {
   "dependencies": {
     "parcel": "^2.0.1"
-  }
+  },
+  "name": "new-chess-pgn-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "parcel src",
+    "build": "parcel build src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrzegorzewski/new-chess-pgn-downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrzegorzewski/new-chess-pgn-downloader/issues"
+  },
+  "homepage": "https://github.com/agrzegorzewski/new-chess-pgn-downloader#readme",
+  "description": ""
 }
